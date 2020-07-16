@@ -14,6 +14,6 @@ Require-dir - instânciar todos arquivos da pasta model nodemon - Reinicializa o
 
 Com yarn e node instalados na máquina:
 $ yarn
-Instala as dependências
+*Instala as dependências
 $ yarn dev
-Inicia o servidor
+*Inicia o servidor
