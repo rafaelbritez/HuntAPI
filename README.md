@@ -1,5 +1,5 @@
 # HuntJS
-Aplicativo para CRUD em banco de dados MongoDB criado em React e NodeJS.
+API para CRUD em banco de dados MongoDB criado em NodeJS.
 
 # Ferramentas usadas no Back-End (NodeAPI)
 Yarn - gerenciador de pacotes para JavaScript.
@@ -17,14 +17,3 @@ $ yarn
 Instala as dependências
 $ yarn dev
 Inicia o servidor
-Ferramentas usadas no Front-End(ReactJs)
-Npm e yarn - gerenciador de pacotes. 
-Create-react-app - Estrutura para aplicativo React Web. ReactJS - contrução do App. 
-Axios - requisições http.
-
-# Script para rodar a pagina
-Com o servidor rodando no endereço "http://localhost:3001/api":
-$ yarn
-Instala as dependências
-$ npm start
-Inicia a pagina no endereço "http://localhost:3000/"
